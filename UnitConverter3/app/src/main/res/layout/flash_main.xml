@@ -1,0 +1,128 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".FullToolsActivity" >
+
+    <ToggleButton
+        android:id="@+id/imageViewflash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textOn=""
+        android:textOff=""
+        android:background="@drawable/flash_off" />
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_gravity="left|bottom"
+    android:layout_marginBottom="20dp"
+    android:layout_marginTop="40dp">
+
+
+        <ImageView
+            android:id="@+id/imageViewunitconverter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="30dp"
+            android:src="@drawable/unitconverter" />
+
+        <ImageView
+            android:id="@+id/imageViewcompass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="30dp"
+            android:src="@drawable/compass_main" />
+
+        <ImageView
+            android:id="@+id/imageViewstopwatch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginLeft="30dp"
+            android:src="@drawable/stopwatch" />
+
+
+</LinearLayout>
+
+    <SurfaceView
+        android:id="@+id/surfaceview"
+        android:layout_width="1px"
+        android:layout_height="1px" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="STROBE FREQUENCY"
+        android:id="@+id/textView"
+        android:textSize="14dp"
+        android:textStyle="bold"
+        android:textColor="@color/green"
+        android:layout_gravity="center_horizontal" />
+
+    <LinearLayout
+        android:id="@+id/flash"
+        android:layout_width="match_parent"
+        android:layout_height="578dp"
+        android:gravity="center|top"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal"
+        android:layout_gravity="left|top">
+        <TextView
+            android:id="@+id/count0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="0"
+            android:layout_marginLeft="1dp"
+            android:textColor="@android:color/black"
+            android:background="@drawable/count3" />
+        <TextView
+            android:id="@+id/count1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="1"
+            android:layout_marginLeft="1dp"
+            android:textColor="@android:color/black"
+            android:background="@drawable/count1"/>
+        <TextView
+            android:id="@+id/count2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="2"
+            android:layout_marginLeft="1dp"
+            android:textColor="@android:color/black"
+            android:background="@drawable/count1" />
+
+        <TextView
+            android:id="@+id/count3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="3"
+            android:layout_marginLeft="1dp"
+            android:background="@drawable/count1"
+            android:textColor="@android:color/black" />
+        <TextView
+            android:id="@+id/count4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="4"
+            android:layout_marginLeft="1dp"
+            android:textColor="@android:color/black"
+            android:background="@drawable/count2" />
+
+    </LinearLayout>
+
+
+</FrameLayout>

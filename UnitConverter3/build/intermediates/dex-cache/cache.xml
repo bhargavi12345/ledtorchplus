@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-2f8ceb316c1ccb218ec003e89a5fc8640408001a.jar" />
+    </item>
+    <item
+        jar="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\classes-c9ff3394750c4e7904d5431ddfb28f13ff445fca.jar" />
+    </item>
+    <item
+        jar="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\classes-9958f58f3e2186f5cbef8bfa6c3693648fef1701.jar" />
+    </item>
+    <item
+        jar="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\classes-4f85558c5d18b63b43e262ef442384716fc29929.jar" />
+    </item>
+    <item
+        jar="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\classes-3dde7f0f1bdfb26b25cb33e7fe97e11fcd934015.jar" />
+    </item>
+    <item
+        jar="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\exploded-aar\UnitConverter3\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bba98fb7bbeaa3a99e2fea944c38a97d50e2e29">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\classes-10f944613e323df0e8150fb48a6fd8eb197219c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\classes-3ed1c0f4501efef899e8f02378a07881792bbae0.jar" />
+    </item>
+    <item
+        jar="C:\Users\BhargaviM\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-44a0c12c6ef2b0e646c3a96882af34178bb5d9ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\classes-e6479f1123f6bce3669491df2d878d63b05af0bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\exploded-aar\org.adw.library\discrete-seekbar\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7be042dd2aa8157a2b63934902f472952d2ea1fe">
+        <dex dex="C:\Users\BhargaviM\Downloads\UnitConverter3\app\build\intermediates\pre-dexed\debug\classes-eb7f96023896c6b5a161bf2ece1b8434b4bf1bcd.jar" />
+    </item>
+
+</items>

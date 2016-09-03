@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/buttonUnit"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Unit Converter" />
+
+    <Button
+        android:id="@+id/buttonMetal"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Metal Detector" />
+
+    <Button
+        android:id="@+id/buttonSound"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Sound Meter" />
+
+    <Button
+        android:id="@+id/buttonCompass"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Compass" />
+
+    <Button
+        android:id="@+id/buttonFlash"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Flash Light" />
+
+    <Button
+        android:id="@+id/buttonStop"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Start/stop Watch" />
+
+
+</LinearLayout>

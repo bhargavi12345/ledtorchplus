@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-2069595384883547/5413627116</string>
+
+
+    <string name="app_name">LED Torch Plus</string>
+    <string name="unit1">Temperature</string>
+    <string name="unit2">Weight</string>
+    <string name="unit3">Length</string>
+    <string name="unit4">Power</string>
+    <string name="unit5">Energy</string>
+    <string name="unit6">Velocity</string>
+    <string name="unit7">Area</string>
+    <string name="unit8">Volume</string>
+    <string name="weightunitkg">Kilograms</string>
+    <string name="weightunitgm">Grams</string>
+    <string name="weightunitlb">Pound</string>
+    <string name="weightunitounce">Ounce</string>
+    <string name="weightunitmg">Milligrams</string>
+    <string name="temperatureunitc">Celcius</string>
+    <string name="temperatureunitf">Fahrenheit</string>
+    <string name="lengthunitcm">Centimeter</string>
+    <string name="lengthunitm">Meter</string>
+    <string name="lengthunitmm">Millimeter</string>
+    <string name="lengthunitkm">Kilometer</string>
+    <string name="lengthunitfeet">Feet</string>
+    <string name="lengthunitmile">Mile</string>
+    <string name="lengthunitinch">Inch</string>
+    <string name="powerunithorseposer">Horsepower</string>
+    <string name="powerunitwatts">Watts</string>
+    <string name="powerunitkilowatts">Kilowatts</string>
+    <string name="energyunitcalories">Calories</string>
+    <string name="energyunitjoules">Joules</string>
+    <string name="energyunitkilocalories">Kilocalories</string>
+    <string name="velocityunitkmph">Km/hr</string>
+    <string name="velocityunitmeterpers">M/s</string>
+    <string name="velocityunitmilesperh">Miles/hr</string>
+    <string name="velocityunitfeetpers">Feet/s</string>
+    <string name="areaunitsqmm">Square mm</string>
+    <string name="areaunitsqm">Square m</string>
+    <string name="areaunitsqcm">Square cm</string>
+    <string name="areaunitsqkm">Square km</string>
+    <string name="areaunitsqmiles">Square miles</string>
+    <string name="areaunitsqyard">Square yards</string>
+    <string name="volumeunitmillilitres">Millilitre</string>
+    <string name="volumeunitlitres">Litre</string>
+    <string name="volumeunitcubicmm">Cubic mm</string>
+    <string name="volumeunitcubiccm">Cubic cm</string>
+    <string name="volumeunitcubicm">Cubic m</string>
+    <string name="volumeunitcubicfeet">Cubic feet</string>
+    <string name="pressureunitpascal">Pascal</string>
+    <string name="pressureunitbar">Bar</string>
+    <string name="pressureunitatm">Atm</string>
+    <string name="pressureunittorr">Torr</string>
+    
+    <string name="timerVal">00:00:00:000</string>
+    <string name="pauseButtonLabel">Pause</string>
+    <string name="startButtonLabel">Start</string>
+    <string name="resetButtonLabel">Reset</string>
+    <string name="title_activity_fab">FABActivity</string>
+        <color name="black">#000000</color>
+   <color name="green">#7CFC00</color>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <style name="AppTheme" parent="Base.AppTheme">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Base.AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+
+
+    <string name="powerbuttonon">Disable Strobe</string>
+    <string name="textSpeedOn">Time lamp is on</string>
+    <string name="textSpeedOff">Time lamp is off</string>
+    <string name="buttonPlus">  +  </string>
+    <string name="buttonMinus">   -   </string>
+    <string name="frequency">Frequency</string>
+    <string name="healthwarning">WARNING! This could be dangerous to your health and the health of others around you. You, the user, are responsible for ensuring the safe use of this application.</string>
+    <string name="powerbuttonoff">Enable Strobe</string>
+    <string name="nocamera">No camera detected! This is needed for the camera flashlight.</string>
+    <string name="healthwarning2">DO NOT USE THIS APPLICATION IF YOU ARE SENSITIVE TO FLASHING LIGHTS.</string>
+</resources>
